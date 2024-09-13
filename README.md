@@ -14,3 +14,8 @@ To school admins: **Your blacklist will still block sites, even when using Schoo
 | brainy.space |
 | prodigy.com |
 | clever.com |
+ixl.com
+testnav.com
+hmhco.com
+classcraft.com
+getepic.com (Epic)
