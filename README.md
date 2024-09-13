@@ -1,4 +1,4 @@
-<img src="schoolsearch.png">
+# SchoolSearch
 A search for school: No tomfoolery, no ads.
 <br>
 Want to add a site? Make an issue!
