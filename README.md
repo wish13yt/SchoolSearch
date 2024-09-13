@@ -6,8 +6,8 @@ Want to add a site? Make an issue!
 To school admins: **Your blacklist will still block sites, even when using SchoolSearch.**
 | Whitelisted sites   |
 | -------- |
-| all .gov sites|
-| all .edu sites|
+| all .gov sites*|
+| all .edu sites*|
 | schoology.com|
 | quavered.com |
 | pics4learning.com |
@@ -19,3 +19,5 @@ testnav.com
 hmhco.com
 classcraft.com
 getepic.com (Epic)
+
+*exceptions apply
