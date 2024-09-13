@@ -13,3 +13,4 @@ To school admins: **Your blacklist will still block sites, even when using Schoo
 | pics4learning.com |
 | brainy.space |
 | prodigy.com |
+| clever.com |
