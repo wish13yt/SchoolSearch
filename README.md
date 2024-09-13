@@ -6,5 +6,6 @@ A search for school: No tomfoolery, no ads.
 | all .edu sites|
 | schoology.com|
 | quavered.com |
+| pics4learning.com |
 
 Want to add a site? Make an issue!
